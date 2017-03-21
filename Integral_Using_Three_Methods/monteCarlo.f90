@@ -1,4 +1,4 @@
-program mc
+program monteCarlo
 implicit none
 
     ! ----------------------------------------------------------------------------------
@@ -22,7 +22,7 @@ implicit none
         print *, "Monte Carlo : ", "n = ", m ,"the integral is : ", sum
     end do
 
-end program mc
+end program monteCarlo
 
     function f (t)
     implicit none
