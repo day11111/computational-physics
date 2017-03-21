@@ -1,4 +1,4 @@
-program trap
+program trapezoidal
 implicit none
 
     ! ----------------------------------------------------------------------------------
@@ -25,7 +25,7 @@ implicit none
     sum = 2*h*sum
     print *,"The trapezoidal rule : ", "n = ", m ,"the integral is : ", sum
     end do
-end program trap
+end program trapezoidal
             
     function f (t)
     implicit none
