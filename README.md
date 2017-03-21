@@ -16,3 +16,5 @@ This repository contains some Fortran90 programs I wrote during the computationa
 
 5. Pair Correlation Funtion.      
    sc.f90, bcc.f90, fcc.f90 and hcp.f90 realize the pair correlation functions for simple cubic(sc), body centered cubic(bcc), face centered cubic(fcc) and hexagonal close packed(hcp) crystal respectively.
+
+qWalker
