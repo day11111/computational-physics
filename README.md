@@ -1,6 +1,6 @@
 # computational-physics
 
-This repository contains some Fortran90 programs I wrote during the computational physics course.
+This repository contains some Fortran90 programs I wrote during my computational physics course.
 
 1. Diluted Ising 2D.      
    Metropolis Monte Carlo simulation is used to study the phase transition to a magnetized state occurring in a diluted 2D Ising model.
@@ -17,4 +17,4 @@ This repository contains some Fortran90 programs I wrote during the computationa
 5. Pair Correlation Funtion.      
    sc.f90, bcc.f90, fcc.f90 and hcp.f90 realize the pair correlation functions for simple cubic(sc), body centered cubic(bcc), face centered cubic(fcc) and hexagonal close packed(hcp) crystal respectively.
    
-If you have any question, please feel free to ask. :)
+If you have any questions, please feel free to ask. :)
