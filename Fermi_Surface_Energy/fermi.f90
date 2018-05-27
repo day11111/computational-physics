@@ -1,5 +1,5 @@
-! This program is designed to calculate the surface energy for given k in Pb(111) and Ag(111)
-! This program is coded by Jinlong Huang. Copyright (C) 2016. All right reserved.
+! Name： Wang Jiping  ID: 11510049
+! This program calculates the surface energy for given k in Pb(111) and Ag(111)
 
 program fermi
 
